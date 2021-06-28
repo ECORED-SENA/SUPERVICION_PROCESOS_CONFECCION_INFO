@@ -210,22 +210,22 @@ section
     .row.g-4.justify-content-center
       .col-5.col-sm-3.col-md-2
         figure.mb-2
-          img.w-75.mx-auto(src='@/assets/curso/img1.png', alt='El instructor - tutor')
+          img.w-75.mx-auto(src='@/assets/curso/img1.svg', alt='El instructor - tutor')
         p.text-center
           strong El instructor - tutor
       .col-5.col-sm-3.col-md-2
         figure.mb-2
-          img.w-75.mx-auto(src='@/assets/curso/img2.png', alt='El instructor - tutor')
+          img.w-75.mx-auto(src='@/assets/curso/img2.svg', alt='El instructor - tutor')
         p.text-center
           strong El entorno
       .col-5.col-sm-3.col-md-2
         figure.mb-2
-          img.w-75.mx-auto(src='@/assets/curso/img3.png', alt='El instructor - tutor')
+          img.w-75.mx-auto(src='@/assets/curso/img3.svg', alt='El instructor - tutor')
         p.text-center
           strong Las TIC
       .col-5.col-sm-3.col-md-2
         figure.mb-2
-          img.w-75.mx-auto(src='@/assets/curso/img4.png', alt='El instructor - tutor')
+          img.w-75.mx-auto(src='@/assets/curso/img4.svg', alt='El instructor - tutor')
         p.text-center
           strong El trabajo colaborativo
 
