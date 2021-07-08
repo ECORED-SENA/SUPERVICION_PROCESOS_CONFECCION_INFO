@@ -58,24 +58,36 @@ export default {
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
-      // {
-      //   nombre: ['Junior Gilberto Rodriguez Rodriguez', 'Nelson Vera Briceño'],
-      //   cargo: 'Producción audiovisual',
-      //   centro: 'Centro Industrial del Diseño y la Manufactura',
-      //   regional: 'Regional Santander',
-      // },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Carmen Alicia Martinez Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
       {
         nombre: 'Sergio Omar Camacho Orduz',
         cargo: 'Desarrollo front-end',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
-      // {
-      //   nombre: 'María Isabel Román Rueda',
-      //   cargo: 'Validación de diseño y contenido',
-      //   centro: 'Centro Industrial del Diseño y la Manufactura',
-      //   regional: 'Regional Santander',
-      // },
+      {
+        nombre: 'Veimar Celis Melendez',
+        cargo: 'Validación de diseño y contenido',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
     ],
     gestoresRepositorio: [
       {
