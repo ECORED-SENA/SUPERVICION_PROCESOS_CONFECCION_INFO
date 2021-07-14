@@ -33,7 +33,7 @@ section
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
           .video
-            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+            | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/UHIt0F6c5zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
     .titulo__template--a.mb-4
@@ -69,7 +69,7 @@ section
       | La apuesta de una de las estrategias del gobierno  con el programa de transformación productiva (PTP) en el sector de la moda y las confecciones  con su Visión: Colombia será reconocida internacionalmente como un país innovador en productos y procesos con un talento humano altamente calificado y competitivo a nivel internacional, que le permita añadir valor agregado al sistema moda, convertirá al país en un polo de diseño en el mundo, transformándose en un proveedor de productos de alto valor agregado, especializados y con marca propia. Dicha visión es soportada por el plan de negocio para el sector desarrollado por la  empresa de consultoría McKinsey & Company, denominado Informe final Sector Textil, confección, diseño y Moda, en el cual se establece que el sector textil, confección, diseño y moda podrá generar al menos US$14.3 mil millones de ingresos para el 2032 (4 veces los ingresos del 2007), comprometido con un programa sectorial a largo plazo permitiendo consolidar al sector, ya que este es uno de los principales exportadores y generadores de empleo en el país.
       br
       br
-      | Actualmente las empresas de este sector se ubican geográficamente en casi todos los departamentos del país, pero se concentran en especial en la Región Bogotá - Cundinamarca con un 40% de la industria textil y 35% de la industria confección, mientras que la región Antioquia con un concentra el 53% de la textil y el 30% de las confecciones.
+      | Actualmente las empresas de este sector se ubican geográficamente en casi todos los departamentos del país, pero se concentran en especial en la Región Bogotá - Cundinamarca con un 40% de la industria textil y 35% de la industria confección, mientras que la región Antioquia concentra el 53% de la textil y el 30% de las confecciones.
       br
       br
       | De acuerdo con SUPERSOCIEDADES, la composición empresarial del sector cuenta con alrededor de 30.000 unidades productivas, siendo en mayoría microempresas con un 91%, le siguen las pequeñas entre 2-6%, las medianas entre 1-2% y por último menos del 1% son grandes empresas.  Sin embargo, al revisar las cifras a corte de 2016 de la Superintendencia de Sociedades, se encuentra que tan sólo 725 empresas de todo el sector textil-confección, el 24,0% corresponde a grandes empresas, el 56,1% a medianas, el 19,9% a pequeñas y microempresas. 
@@ -84,7 +84,8 @@ section
       | El SENA es la única entidad que realiza formación especializada en el diseño y desarrollo de prendas de vestir, con presencia en los departamentos de Atlántico, Tolima, Distrito Capital, Antioquia, Boyacá, Cauca, Santanderes entre otras, contribuyendo al desarrollo de la industria textil-confección en estas regiones, al aportar el talento humano que genere valor a su oferta de productos y servicios.
       br
       br
-      | Este programa de formación hace parte de la respuesta a los desafíos propuestos en el Plan de Negocios del sector Textil Confección Diseño y Moda, en los cuales se ve la necesidad del sector de contar con talento humano altamente especializado. Atendiendo esta necesidad, el SENA y la Cámara Colombiana de las Confecciones y Afines han firmado desde 2013 el convenio especial de cooperación 00263, el cual tiene como objeto “Fortalecer la base para la gestión de las empresas, pequeños y medianas  del sector de las confecciones, para desarrollar capacidades inherentes al proceso administrativo, el desarrollo de mejores prácticas y habilidades en el análisis y gestión de los procesos, con el propósito de establecer escenarios de mejora en la productividad de las diferentes áreas de la organización y consolidar el sector ante los nuevos retos de los mercados, según  acuerdos comerciales  y las nuevas condiciones del mercado de la confección y afines”.
+      | Este programa de formación hace parte de la respuesta a los desafíos propuestos en el Plan de Negocios del sector Textil Confección Diseño y Moda, en los cuales se ve la necesidad del sector de contar con talento humano altamente especializado. Atendiendo esta necesidad, el SENA y la Cámara Colombiana de las Confecciones y Afines han firmado desde 2013 el convenio especial de cooperación 00263, el cual tiene como objeto “Fortalecer la base para la gestión de las empresas, pequeños y medianas  del sector de las confecciones, para desarrollar capacidades inherentes al proceso administrativo, el desarrollo de mejores prácticas y habilidades en el análisis y gestión de los procesos, con el propósito de establecer escenarios de mejora en la productividad de las diferentes áreas de la organización y consolidar el sector ante los nuevos retos de los mercados, según  acuerdos comerciales  y las nuevas condiciones del mercado de la confección y afines”. 
+
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
     .titulo__template--a.mb-4
@@ -182,19 +183,19 @@ section
     ul.lista-ul.mb-4
       li.d-flex
         i.fas.fa-angle-right
-        | Supervisor confección prendas de vestir.
+        | Supervisor confección prendas de vestir
       li.d-flex
         i.fas.fa-angle-right
-        | Supervisor corte y confección.
+        | Supervisor corte y confección
       li.d-flex
         i.fas.fa-angle-right
-        | Supervisor fabricación prendas de vestir.
+        | Supervisor fabricación prendas de vestir
       li.d-flex
         i.fas.fa-angle-right
-        | Supervisor operadores máquinas de coser.
+        | Supervisor operadores máquinas de coser
       li.d-flex
         i.fas.fa-angle-right
-        | Supervisor taller de confección.
+        | Supervisor taller de confección
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5

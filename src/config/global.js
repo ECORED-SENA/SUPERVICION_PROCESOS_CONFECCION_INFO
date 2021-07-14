@@ -23,6 +23,7 @@ export default {
       },
       {
         nombre: 'Erika Alexandra Blanco',
+        cargo: 'Experta Tematica',
         centro: 'Centro de Formación diseño, confección moda',
         regional: 'Regional Antioquia',
       },
