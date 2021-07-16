@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 273.4 225.8" style="enable-background:new 0 0 273.4 225.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#DB6F45;}
+	.st2{opacity:0.17;fill:#383938;}
+	.st3{fill:#F9F1F1;}
+	.st4{fill:#E5E0EC;}
+	.st5{fill:#159A96;}
+	.st6{fill:#4CBDC6;}
+	.st7{fill:#5EC1CB;}
+	.st8{fill:#15A9A9;}
+	.st9{fill:#EA526F;}
+	.st10{fill:#B6294B;}
+</style>
+<g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="158.5778" x2="273.4016" y2="158.5778">
+				<stop  offset="0" style="stop-color:#FEDC9D"/>
+				<stop  offset="0.5687" style="stop-color:#FABF87"/>
+				<stop  offset="1" style="stop-color:#F1885E"/>
+			</linearGradient>
+			<path class="st0" d="M169.1,91.4L169.1,91.4c-2.9,0-166.2,0-169.1,0v134.4h169.1h41.7l13.7-49l48.9-11c0,0,0-62.5,0-74.4
+				C270.5,91.4,172.1,91.4,169.1,91.4z"/>
+		</g>
+		<path id="XMLID_7_" class="st1" d="M210.9,225.8c7.6-7.3,54.9-52.7,62.5-60c-16.9,0-52.5,0-62.5,0L210.9,225.8z"/>
+	</g>
+	<ellipse class="st2" cx="136.7" cy="162.2" rx="72.6" ry="9.1"/>
+	<g>
+		<g>
+			<path class="st3" d="M136.7,45.3c-0.4-7.2-4.4-13.7-10.7-17.2L77.8,0.6c-3.3-1.9-7.3,0.5-7.3,4.3v58.5h66.3V45.3"/>
+			<path class="st4" d="M136.7,45.3c0.4-7.2,4.4-13.7,10.7-17.2l48.2-27.4c3.3-1.9,7.3,0.5,7.3,4.3v53.5h-66.3L136.7,45.3z"/>
+		</g>
+		<g>
+			<g>
+				<path class="st5" d="M157.6,167.9l60.5-33.4c1.6-0.9,2.5-2.5,2.5-4.3V22.3c0-3.7-4-6.1-7.3-4.3l-55.8,30.8L157.6,167.9
+					L157.6,167.9z"/>
+				<path class="st6" d="M115.8,167.9l-60.5-33.4c-1.6-0.9-2.5-2.5-2.5-4.3V22.3c0-3.7,4-6.1,7.3-4.3l55.8,30.8V167.9z"/>
+			</g>
+			<g>
+				<g>
+					<path class="st7" d="M115.8,48.8h41.8v119.2h-41.8V48.8z"/>
+					<path class="st8" d="M136.7,48.8h20.9v119.2h-20.9V48.8z"/>
+				</g>
+				<g>
+					<g>
+						<path class="st9" d="M115.8,142.1h41.8v9.8h-41.8V142.1z"/>
+						<path class="st10" d="M136.7,142.1h20.9v9.8h-20.9V142.1z"/>
+					</g>
+					<g>
+						<path class="st9" d="M115.8,65.5h41.8v9.8h-41.8V65.5z"/>
+						<path class="st10" d="M136.7,65.5h20.9v9.8h-20.9V65.5z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
