@@ -91,94 +91,64 @@ section
     .titulo__template--a.mb-4
       span.h4 3. Competencias a desarrollar
 
-    .tabla-a.color-primario.mb-5 
-      table
-        thead
-          tr
-            th NOMBRE COMPETENCIA DEL PROGRAMA
-            th NOMBRE DE NCL
-            th(width='150px') CÓDIGO NCL
-        tbody
-          tr
-            td Determinación de procesos de confección industrial
-            td Dirigir la producción de confección según técnicas de supervisión y  manufactura.
-            td 290601222
-          tr
-            td Implementación métodos y tiempos de fabricación que mejoren la productividad en la empresa
-            td Estandarizar proceso productivo según métodos industriales.
-            td 220601022
-          tr
-            td Planeación de recursos para los procesos de confección industrial
-            td Programar la confección de prendas según procedimientos técnicos y técnicas de manufactura.
-            td 290601221
-          tr
-            td Verificación de la producción de acuerdo con los parámetros establecidos de la planeación
-            td Controlar la producción de acuerdo con métodos técnicos y normativa.
-            td 220601020
-          tr
-            td Orientación al personal operativo de confección en procesos de talento humano
-            td Dirigir el talento humano de acuerdo con normativa.
-            td 210201052
-          tr
-            td Reconocimiento de las variables de calidad en los procesos textiles.
-            td Controlar la calidad en los procesos de tejeduría de acuerdo con las normas establecidas.
-            td 290602092
-          tr
-            td Aplicación de conceptos matemáticos en procesos productivos
-            td Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales.
-            td 240201517
-          tr
-            td Desarrollar procesos de comunicación oral y escritos en forma eficaz y efectiva, teniendo en cuenta situaciones de orden social, personal y productivo.
-            td Desarrollar procesos de comunicación oral y escritos en forma eficaz y efectiva, teniendo en cuenta situaciones de orden social, personal y productivo.
-            td 240201524
-          tr
-            td Implementar hábitos saludables mediante la actividad física, de conformidad con las exigencias del perfil idóneo de egreso
-            td Generación de Hábitos saludables de vida mediante la aplicación de programas de Actividad Física en los contextos productivos y sociales.
-            td 230101507
-          tr
-            td Emplear elementos de cultura emprendedora y empresarial de acuerdo con los contextos productivos, social y personal
-            td Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
-            td 240201525
-          tr
-            td Protección para la salud y el medio ambiente.
-            td Aplicar prácticas de protección ambiental, seguridad y salud en el trabajo de acuerdo con las políticas organizacionales y la normatividad vigente.
-            td 220601501
-          tr
-            td Ética para la construcción de una cultura de paz
-            td Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz.
-            td 240201526
-          tr
-            td Desarrollo de procesos de investigación efectivos, teniendo en cuenta situaciones de orden social y productivo
-            td Orientar investigación formativa según investigación referentes técnicos.
-            td 240201064
-          tr
-            td Aplicación de tecnologías de la información y la comunicación (tic), de acuerdo con las necesidades del entorno
-            td Utilizar herramientas informáticas de acuerdo con necesidades de manejo de información.
-            td 220501046
-          tr
-            td Ejercer los derechos fundamentales del trabajo de
-            td Ejercicio de los Derechos Fundamentales del Trabajo.
-            td 220201501
-          tr
-            td Acuerdo al reconocimiento de la dignidad
-            td
-            td
-          tr
-            td Aplicación de conocimientos de las ciencias naturales de acuerdo con situaciones del contexto productivo y social.
-            td Aplicación de conocimientos de las ciencias naturales de acuerdo con situaciones del contexto productivo y social.
-            td 240201530
-          tr
-            td Inglés
-            td Interactuar en lengua inglesa de forma oral y escrita dentro de  contextos sociales y laborales según  los criterios establecidos por  el Marco Común Europeo de  Referencia para las Lenguas.
-            td 240201501
-          tr
-            td 
-            td 
-            td 
-          tr
-            td Resultados de aprendizaje etapa práctica
-            td Aplicar en la resolución de problemas reales del sector productivo, los conocimientos, habilidades y destrezas pertinentes a las competencias del programa de formación asumiendo estrategias y metodologías de autogestión.
-            td 
+    ul.lista-ul.mb-4
+      li.d-flex
+        i.fas.fa-angle-right
+        | Aplicación de conocimientos de las ciencias naturales de acuerdo con situaciones del contexto productivo y social.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Aplicar prácticas de protección ambiental, seguridad y salud en el trabajo de acuerdo con las políticas organizacionales y la normatividad vigente.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Controlar la calidad en los procesos de tejeduría de acuerdo con las normas establecidas.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Controlar la producción de acuerdo con métodos técnicos y normativa.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Desarrollar procesos de comunicación oral y escritos en forma eficaz y efectiva, teniendo en cuenta situaciones de orden social, personal y productivo
+      li.d-flex
+        i.fas.fa-angle-right
+        | Dirigir el talento humano de acuerdo con normativa.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Dirigir la confección de prendas de vestir según técnicas de supervisión y manufactura. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Ejercer derechos fundamentales del trabajo en el marco de la constitución política y los convenios internacionales. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Enrique Low Murtra. Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Estandarizar proceso productivo según métodos industriales. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Generar hábitos saludables de vida mediante la aplicación de programas de actividad física en los contextos productivos y sociales. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Interactuar en lengua inglesa de forma oral y escrita dentro de los contextos sociales y laborales según los criterios establecidos por el marco común europeo de referencia para las lenguas. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Orientar investigación formativa según referentes técnicos. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Programar la confección de prendas según procedimientos técnicos y técnicas de manufactura. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Utilizar herramientas informáticas de acuerdo con las necesidades de manejo de información. 
+      li.d-flex
+        i.fas.fa-angle-right
+        | Resultado de aprendizaje de la inducción.
+      li.d-flex
+        i.fas.fa-angle-right
+        | Resultados de aprendizaje etapa práctica. 
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
